@@ -1,0 +1,15 @@
+# Allow only source code and documentation
+*
+!*/
+!*.c
+!*.cpp
+!*.h
+!*.hpp
+!README.md
+!.gitignore
+**/Debug/
+**/Release/
+**/.vs/
+**/23241-source/
+**/include_mariadb*/
+**/lib_mariadb*/
